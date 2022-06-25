@@ -1,0 +1,23 @@
+{
+  "name": "memory_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dloppes/memory_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dloppes/memory_game/issues"
+  },
+  "homepage": "https://github.com/dloppes/memory_game#readme",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "jest-environment-jsdom": "^28.1.1"
+  }
+}
